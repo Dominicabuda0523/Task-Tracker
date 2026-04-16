@@ -11,3 +11,5 @@ Entering (3) Delete Task - all the tasks will be listed in the CLI, including al
 Entering (4) Update Task - all the tasks will be listed again and you will input their own id to select and change their status. You can change it by inputing (todo)(in-progress)(done), it is also not case sensitive.
 
 Entering (5) Quit - will terminate the code.
+
+P.S: Note that in the first time running the code, it is necessary to add a task first before trying out all the other commands or else it will error. Also open for criticism (^_^) for the betterment as a learner.
